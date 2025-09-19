@@ -1,9 +1,9 @@
 import React from 'react'
-
+import HeroSection from './herosection';
 const Landing = () => {
   return (
     <div>
-      Landing
+      <HeroSection/>
     </div>
   )
 }
