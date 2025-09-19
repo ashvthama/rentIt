@@ -75,7 +75,7 @@ const FooterSection = () => {
           <Link href="/cookies">Cookie Policy</Link>
         </div>
       </div>
-    </footer>
+    </footer>   
   );
 };
 
